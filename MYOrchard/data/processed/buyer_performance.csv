@@ -1,0 +1,9 @@
+buyer_id,invoice_lines,quantity_sold_kg,revenue,amount_collected,buyer_name,buyer_type,market,revenue_share_pct,collection_rate_pct
+C002,103,101021,6257698.3,5145066.64,Green Basket Wholesale,Wholesaler,Secunderabad,17.89,82.22
+C001,90,82471,5314341.62,4617942.5,Deccan Fresh Traders,Distributor,Hyderabad,15.2,86.9
+C003,89,81142,5036636.6,4262988.26,Metro Fruit Supply,Distributor,Bengaluru,14.4,84.64
+C004,79,66423,4482080.22,3643250.37,Sunrise Produce Market,Market Agent,Pune,12.82,81.28
+C005,74,67422,4469081.55,3812729.92,Harvest Lane Foods,Retail Supplier,Hyderabad,12.78,85.31
+C006,60,54277,3575673.8,2889726.1,Crown Agro Links,Wholesaler,Chennai,10.22,80.82
+C007,60,51604,3490256.11,3196052.13,FreshRoute Commerce,Distributor,Mumbai,9.98,91.57
+C008,37,32292,2346012.74,1868839.5,Village-to-City Foods,Retail Supplier,Warangal,6.71,79.66

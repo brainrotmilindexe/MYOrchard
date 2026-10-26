@@ -1,0 +1,76 @@
+expense_id,season_id,expense_date,category,amount,assumption_note
+E0001,S2011,2011-06-30,Harvest Labour,186169.8,Synthetic modeled cost
+E0002,S2011,2011-06-30,Packing,75626.3,Synthetic modeled cost
+E0003,S2011,2011-06-30,Transport,93506.24,Synthetic modeled cost
+E0004,S2011,2011-06-30,Irrigation & Care,77559.86,Synthetic modeled cost
+E0005,S2011,2011-06-30,Other Operations,37770.74,Synthetic modeled cost
+E0006,S2012,2012-06-30,Harvest Labour,204473.01,Synthetic modeled cost
+E0007,S2012,2012-06-30,Packing,115470.56,Synthetic modeled cost
+E0008,S2012,2012-06-30,Transport,106120.69,Synthetic modeled cost
+E0009,S2012,2012-06-30,Irrigation & Care,72413.69,Synthetic modeled cost
+E0010,S2012,2012-06-30,Other Operations,49386.16,Synthetic modeled cost
+E0011,S2013,2013-06-30,Harvest Labour,168964.17,Synthetic modeled cost
+E0012,S2013,2013-06-30,Packing,81797.05,Synthetic modeled cost
+E0013,S2013,2013-06-30,Transport,84606.43,Synthetic modeled cost
+E0014,S2013,2013-06-30,Irrigation & Care,60161.82,Synthetic modeled cost
+E0015,S2013,2013-06-30,Other Operations,39331.43,Synthetic modeled cost
+E0016,S2014,2014-06-30,Harvest Labour,167659.79,Synthetic modeled cost
+E0017,S2014,2014-06-30,Packing,102011.53,Synthetic modeled cost
+E0018,S2014,2014-06-30,Transport,118297.95,Synthetic modeled cost
+E0019,S2014,2014-06-30,Irrigation & Care,79882.5,Synthetic modeled cost
+E0020,S2014,2014-06-30,Other Operations,48981.17,Synthetic modeled cost
+E0021,S2015,2015-06-30,Harvest Labour,163924.49,Synthetic modeled cost
+E0022,S2015,2015-06-30,Packing,71653.99,Synthetic modeled cost
+E0023,S2015,2015-06-30,Transport,84256.2,Synthetic modeled cost
+E0024,S2015,2015-06-30,Irrigation & Care,70637.42,Synthetic modeled cost
+E0025,S2015,2015-06-30,Other Operations,35674.44,Synthetic modeled cost
+E0026,S2016,2016-06-30,Harvest Labour,207373.17,Synthetic modeled cost
+E0027,S2016,2016-06-30,Packing,113340.15,Synthetic modeled cost
+E0028,S2016,2016-06-30,Transport,117410.46,Synthetic modeled cost
+E0029,S2016,2016-06-30,Irrigation & Care,88995.25,Synthetic modeled cost
+E0030,S2016,2016-06-30,Other Operations,52019.0,Synthetic modeled cost
+E0031,S2017,2017-06-30,Harvest Labour,305366.99,Synthetic modeled cost
+E0032,S2017,2017-06-30,Packing,126977.36,Synthetic modeled cost
+E0033,S2017,2017-06-30,Transport,154034.35,Synthetic modeled cost
+E0034,S2017,2017-06-30,Irrigation & Care,113816.21,Synthetic modeled cost
+E0035,S2017,2017-06-30,Other Operations,50006.88,Synthetic modeled cost
+E0036,S2018,2018-06-30,Harvest Labour,218862.57,Synthetic modeled cost
+E0037,S2018,2018-06-30,Packing,97309.39,Synthetic modeled cost
+E0038,S2018,2018-06-30,Transport,119397.29,Synthetic modeled cost
+E0039,S2018,2018-06-30,Irrigation & Care,82104.21,Synthetic modeled cost
+E0040,S2018,2018-06-30,Other Operations,47365.76,Synthetic modeled cost
+E0041,S2019,2019-06-30,Harvest Labour,241961.37,Synthetic modeled cost
+E0042,S2019,2019-06-30,Packing,87252.98,Synthetic modeled cost
+E0043,S2019,2019-06-30,Transport,146143.86,Synthetic modeled cost
+E0044,S2019,2019-06-30,Irrigation & Care,80246.45,Synthetic modeled cost
+E0045,S2019,2019-06-30,Other Operations,43762.56,Synthetic modeled cost
+E0046,S2020,2020-06-30,Harvest Labour,238187.96,Synthetic modeled cost
+E0047,S2020,2020-06-30,Packing,101198.36,Synthetic modeled cost
+E0048,S2020,2020-06-30,Transport,146011.65,Synthetic modeled cost
+E0049,S2020,2020-06-30,Irrigation & Care,86960.42,Synthetic modeled cost
+E0050,S2020,2020-06-30,Other Operations,58124.92,Synthetic modeled cost
+E0051,S2021,2021-06-30,Harvest Labour,255936.18,Synthetic modeled cost
+E0052,S2021,2021-06-30,Packing,125421.89,Synthetic modeled cost
+E0053,S2021,2021-06-30,Transport,159398.74,Synthetic modeled cost
+E0054,S2021,2021-06-30,Irrigation & Care,119624.22,Synthetic modeled cost
+E0055,S2021,2021-06-30,Other Operations,64367.72,Synthetic modeled cost
+E0056,S2022,2022-06-30,Harvest Labour,333473.34,Synthetic modeled cost
+E0057,S2022,2022-06-30,Packing,154673.76,Synthetic modeled cost
+E0058,S2022,2022-06-30,Transport,215690.07,Synthetic modeled cost
+E0059,S2022,2022-06-30,Irrigation & Care,143913.93,Synthetic modeled cost
+E0060,S2022,2022-06-30,Other Operations,79976.51,Synthetic modeled cost
+E0061,S2023,2023-06-30,Harvest Labour,238176.49,Synthetic modeled cost
+E0062,S2023,2023-06-30,Packing,123473.43,Synthetic modeled cost
+E0063,S2023,2023-06-30,Transport,157793.28,Synthetic modeled cost
+E0064,S2023,2023-06-30,Irrigation & Care,107977.42,Synthetic modeled cost
+E0065,S2023,2023-06-30,Other Operations,56731.63,Synthetic modeled cost
+E0066,S2024,2024-06-30,Harvest Labour,320713.05,Synthetic modeled cost
+E0067,S2024,2024-06-30,Packing,132039.67,Synthetic modeled cost
+E0068,S2024,2024-06-30,Transport,181316.83,Synthetic modeled cost
+E0069,S2024,2024-06-30,Irrigation & Care,120464.93,Synthetic modeled cost
+E0070,S2024,2024-06-30,Other Operations,66551.04,Synthetic modeled cost
+E0071,S2025,2025-06-30,Harvest Labour,366003.17,Synthetic modeled cost
+E0072,S2025,2025-06-30,Packing,195521.67,Synthetic modeled cost
+E0073,S2025,2025-06-30,Transport,213297.05,Synthetic modeled cost
+E0074,S2025,2025-06-30,Irrigation & Care,151950.3,Synthetic modeled cost
+E0075,S2025,2025-06-30,Other Operations,87119.2,Synthetic modeled cost

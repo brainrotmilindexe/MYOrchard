@@ -1,0 +1,6 @@
+variety_id,invoice_lines,quantity_sold_kg,revenue,avg_selling_price_per_kg,variety,acre_share,base_price_per_kg,revenue_share_pct
+V01,120,114768,10952755.17,96.74,Alphonso,0.2,78,31.32
+V03,120,108761,8397400.7,77.2,Kesar,0.18,62,24.01
+V02,120,111982,6520751.71,59.01,Banganapalli,0.28,48,18.65
+V05,112,93959,4924560.33,52.7,Dasheri,0.12,42,14.08
+V04,120,107182,4176313.03,39.17,Totapuri,0.22,32,11.94

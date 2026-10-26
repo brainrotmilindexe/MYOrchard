@@ -1,0 +1,3 @@
+# Methodology and assumptions
+
+The project generates 15 fictional seasons, a 24-acre fictional operation, five varieties, five blocks and eight wholesale buyers. A fixed random seed makes the data reproducible. Price inflation, yield variation, rejection rates, payment delays and expenses are simulated distributions. Flags around 2019–20 and 2020–21 represent a fictional pandemic scenario; additional weather and cost-pressure effects are assumptions, not real-world measurements. The model excludes tax, financing, depreciation, inventory carry-over and full accounting detail. Never describe the dataset as real client or local market data.

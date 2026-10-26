@@ -1,0 +1,16 @@
+season_id,season,start_year,pandemic_scenario,market_pressure_scenario,scenario_note
+S2011,2011-12,2011,False,False,Baseline synthetic season
+S2012,2012-13,2012,False,False,Baseline synthetic season
+S2013,2013-14,2013,False,False,Baseline synthetic season
+S2014,2014-15,2014,False,False,Baseline synthetic season
+S2015,2015-16,2015,False,False,Baseline synthetic season
+S2016,2016-17,2016,False,False,Baseline synthetic season
+S2017,2017-18,2017,False,False,Baseline synthetic season
+S2018,2018-19,2018,False,False,Baseline synthetic season
+S2019,2019-20,2019,True,False,Synthetic pandemic scenario
+S2020,2020-21,2020,True,False,Synthetic pandemic scenario
+S2021,2021-22,2021,False,False,Baseline synthetic season
+S2022,2022-23,2022,False,True,Synthetic cost/market scenario
+S2023,2023-24,2023,False,True,Synthetic cost/market scenario
+S2024,2024-25,2024,False,False,Baseline synthetic season
+S2025,2025-26,2025,False,False,Baseline synthetic season
