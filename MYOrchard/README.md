@@ -28,4 +28,4 @@ The ZIP already includes generated CSV data and analysis outputs. Running the sc
 ## Metrics
 Revenue = quantity × price less discount. Operating contribution = revenue less the expense categories included in this simplified model; it is not audited net profit and excludes tax, financing, depreciation and unmodelled costs. Wastage rate = rejected kg / harvested kg. Collection rate = collected amount / invoiced revenue.
 
-The pandemic, weather and market-pressure flags are **synthetic scenario assumptions**, not measured historical impacts. Always label the dataset as synthetic in your portfolio.
+The pandemic, weather and market-pressure flags are **synthetic scenario assumptions**, not measured historical impacts. Always label the dataset as synthetic in your portfolio. 
